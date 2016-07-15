@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World</h1>
+        <h1>Hello World, how are you doing?</h1>
         <h1><%=tadBean.getDate()%> - <%=tadBean.getTime()%></h1>
     </body>
 

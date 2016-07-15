@@ -1,0 +1,13 @@
+15-Jul-2016 14:22:38.623 INFO [http-nio-9090-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+15-Jul-2016 14:22:38.624 INFO [http-nio-9090-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+15-Jul-2016 14:22:38.625 INFO [http-nio-9090-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+15-Jul-2016 14:22:38.632 INFO [http-nio-9090-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/SimpleMavenWebapp'
+15-Jul-2016 14:22:38.632 INFO [http-nio-9090-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ec2-user/date-and-time/apache-tomcat-8.0.36/webapps/SimpleMavenWebapp.war
+15-Jul-2016 14:25:11.934 INFO [http-nio-9090-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+15-Jul-2016 14:25:11.937 INFO [http-nio-9090-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+15-Jul-2016 14:25:11.940 INFO [http-nio-9090-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleMavenWebapp'
+15-Jul-2016 14:25:12.468 INFO [http-nio-9090-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/SimpleMavenWebapp'
+15-Jul-2016 14:25:12.468 INFO [http-nio-9090-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ec2-user/date-and-time/apache-tomcat-8.0.36/webapps/SimpleMavenWebapp.war
+15-Jul-2016 14:25:57.472 INFO [http-nio-9090-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+15-Jul-2016 14:25:57.472 INFO [http-nio-9090-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+15-Jul-2016 14:25:57.481 INFO [http-nio-9090-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
